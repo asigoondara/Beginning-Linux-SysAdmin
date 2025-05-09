@@ -1,3 +1,4 @@
+
 # Chapter 1: Introduction to Linux Administration
 # Introduction
 # Welcome to Beginning Linux SysAdmin!
@@ -12,5 +13,8 @@ In this book, we'll walk step-by-step through the essential skills every beginne
 
 ## Our Goal:
 By the end of this journey, you'll be comfortable setting up Linux systems, managing users, securing servers, troubleshooting problems, and automating tasks — skills that will open doors in the world of IT.
+
+
+
 
 
